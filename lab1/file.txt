@@ -1,7 +1,0 @@
-add of number = 13
-add of number = 13
-sub of number = -1
-mul of number = 42
-add of number = 12
-sub of number = -2
-div of number = 4
